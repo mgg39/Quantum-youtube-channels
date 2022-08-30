@@ -12,3 +12,4 @@
 * QuTech Academy https://www.youtube.com/c/QuTechAcademy
 * Center for Quantum Networks https://www.youtube.com/channel/UCj2LCgb2twAub5Ti-ks2lXA
 * Munich Center for Quantum Science & Technology https://www.youtube.com/c/MunichCenterforQuantumScienceTechnologyMCQST
+* Google Quantum AI https://www.youtube.com/c/QuantumAI
