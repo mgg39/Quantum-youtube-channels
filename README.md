@@ -13,3 +13,8 @@
 * Center for Quantum Networks https://www.youtube.com/channel/UCj2LCgb2twAub5Ti-ks2lXA
 * Munich Center for Quantum Science & Technology https://www.youtube.com/c/MunichCenterforQuantumScienceTechnologyMCQST
 * Google Quantum AI https://www.youtube.com/c/QuantumAI
+* John Preskill's lectures https://www.youtube.com/channel/UCeq4xfwNE6eDK3k1vTfZK8g/featured
+* Quantum ML https://www.youtube.com/channel/UCVROlDxzfRrlRexJvvCuQeg
+* Berkley's Quantum Computation course https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7
+* QCHS - Quantum Computing Hard- and Software School https://www.youtube.com/channel/UCMDdhgM-V3oarFDfz2-sl8Q/playlists
+
