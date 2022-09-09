@@ -21,3 +21,4 @@
 * Domain of Science (Quantum Physics series) https://www.youtube.com/playlist?list=PLOYRlicwLG3T3mQYvpemGPzQLu8FYtW3l
 * Josh's Channel https://www.youtube.com/c/JoshsChannelUrl
 * Fermilab https://www.youtube.com/c/fermilab
+* Sydney Quantum Academy https://www.youtube.com/channel/UCGHSNYx9HVpOEHXyULLMxpw
