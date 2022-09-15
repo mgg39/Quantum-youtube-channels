@@ -44,3 +44,5 @@ https://www.youtube.com/c/JoshsChannelUrl
 https://www.youtube.com/c/fermilab
 * Sydney Quantum Academy 
 https://www.youtube.com/channel/UCGHSNYx9HVpOEHXyULLMxpw
+* Riverlane
+https://www.youtube.com/channel/UCLsSWTktsqRRCS8t9OTiRtg
