@@ -50,3 +50,5 @@ https://www.youtube.com/channel/UCLsSWTktsqRRCS8t9OTiRtg
 https://www.youtube.com/channel/UC1c1lBkQZkuR8kdrAC6nCpg
 * BSS Physics School
 https://www.youtube.com/channel/UC37kYds7QwN8w9vPBPkdVxA
+* Quantum Grad
+https://www.youtube.com/@quantumgrad4896/videos
