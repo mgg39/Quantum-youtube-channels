@@ -54,3 +54,5 @@ https://www.youtube.com/channel/UC37kYds7QwN8w9vPBPkdVxA
 https://www.youtube.com/@quantumgrad4896/videos
 * BANSOUVideo Quantum
 https://www.youtube.com/@bansouvideoquantum2358
+* QC Ware
+https://www.youtube.com/@QCWare
