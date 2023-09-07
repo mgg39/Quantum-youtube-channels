@@ -56,3 +56,5 @@ https://www.youtube.com/@quantumgrad4896/videos
 https://www.youtube.com/@bansouvideoquantum2358
 * QC Ware
 https://www.youtube.com/@QCWare
+* The Quantum Enigmas
+https://www.youtube.com/playlist?list=PLtn704u3JW-J3yBVF7WVPHXCb4vkhmem9
