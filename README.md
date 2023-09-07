@@ -58,5 +58,5 @@ https://www.youtube.com/@bansouvideoquantum2358
 https://www.youtube.com/@QCWare
 * The Quantum Enigmas
 https://www.youtube.com/playlist?list=PLtn704u3JW-J3yBVF7WVPHXCb4vkhmem9
-* BQB Steam
+* BQB Stream
 https://www.youtube.com/@bqb.stream
