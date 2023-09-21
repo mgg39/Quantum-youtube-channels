@@ -1,5 +1,7 @@
 # Quantum youtube channels
 
+* bqb Quantum Youth
+https://www.youtube.com/@bqbQuantumYouth-pp5jz
 * MIT OpenCourseWare 
 https://www.youtube.com/c/mitocw
 * Qiskit
