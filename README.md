@@ -66,3 +66,5 @@ https://www.youtube.com/@bqb.stream
 https://youtube.com/playlist?list=PLOlz9q28K2e4Yn2ZqbYI__dYqw5nQ9DST&si=57F_gYbr5ABuP1Sx
 * Byron Bay Quantum Computing Workshop
 https://www.youtube.com/@byronbayquantumcomputingwo1746
+* Qiskit Fall Fest en Español (spanish content)
+https://www.youtube.com/@QiskitFallFestSpanish/streams
