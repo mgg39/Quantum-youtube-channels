@@ -68,3 +68,15 @@ https://youtube.com/playlist?list=PLOlz9q28K2e4Yn2ZqbYI__dYqw5nQ9DST&si=57F_gYbr
 https://www.youtube.com/@byronbayquantumcomputingwo1746
 * Qiskit Fall Fest en Español (spanish content)
 https://www.youtube.com/@QiskitFallFestSpanish/streams
+* Institute for Pure & Applied Mathematics (IPAM)
+https://www.youtube.com/@IPAMUCLA
+* Institute for Robust Quantum Simulation
+https://www.youtube.com/@instituteforrobustquantums7668
+* Centre for AMO Physics at University of Warsaw
+https://www.youtube.com/@CAMOP_UW
+* PsiQuantum
+https://www.youtube.com/@PsiQuantum
+* Zapata AI
+https://www.youtube.com/@ZapataAI
+* Center for Quantum Networks
+https://www.youtube.com/@centerforquantumnetworks
