@@ -23,7 +23,7 @@ https://www.youtube.com/c/PrincetonCenterforComplexMaterialsPCCM
 * QuTech Academy 
 https://www.youtube.com/c/QuTechAcademy
 * Center for Quantum Networks 
-https://www.youtube.com/channel/UCj2LCgb2twAub5Ti-ks2lXA
+https://www.youtube.com/@centerforquantumnetworks
 * Munich Center for Quantum Science & Technology 
 https://www.youtube.com/c/MunichCenterforQuantumScienceTechnologyMCQST
 * Google Quantum AI 
@@ -78,5 +78,3 @@ https://www.youtube.com/@CAMOP_UW
 https://www.youtube.com/@PsiQuantum
 * Zapata AI
 https://www.youtube.com/@ZapataAI
-* Center for Quantum Networks
-https://www.youtube.com/@centerforquantumnetworks
