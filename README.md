@@ -78,3 +78,5 @@ https://www.youtube.com/@CAMOP_UW
 https://www.youtube.com/@PsiQuantum
 * Zapata AI
 https://www.youtube.com/@ZapataAI
+* Oxfords' QM course
+https://www.youtube.com/playlist?list=PLB3CF07ACB3DBC849
